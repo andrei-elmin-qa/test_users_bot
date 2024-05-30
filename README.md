@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image]https://raw.githubusercontent.com/andrei-elmin-qa/test_users_bot/main/menu.png
+![image](https://raw.githubusercontent.com/andrei-elmin-qa/test_users_bot/main/menu.png)
 
 После выбора количества пользователей:
 
-![image]https://raw.githubusercontent.com/andrei-elmin-qa/test_users_bot/main/generate.png
+![image](https://raw.githubusercontent.com/andrei-elmin-qa/test_users_bot/main/generate.png)
 
 ## 💻 Технологии
 
